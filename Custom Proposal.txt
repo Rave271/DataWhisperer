@@ -1,0 +1,59 @@
+Talking Rabbitt – Executive Proposal for Zomato
+Conversational Intelligence for Real-Time Business Insights
+
+Overview
+
+Zomato operates in a highly dynamic marketplace where real-time insights into order volume, restaurant performance, customer behavior, and regional demand are critical for decision-making. However, traditional analytics dashboards require manual exploration and analyst support, which slows down leadership teams when quick decisions are needed.
+
+Talking Rabbitt introduces a conversational intelligence layer on top of Zomato’s existing data infrastructure. Instead of navigating dashboards or requesting reports from analysts, executives and operations managers can ask natural language questions and receive instant answers with automated visualizations.
+
+Business Problem
+
+Zomato’s leadership and operations teams rely heavily on dashboards and manual data analysis to answer key operational questions such as:
+
+* Which cities generated the highest order volume today?
+* Which restaurant categories are growing the fastest?
+* Which regions are experiencing delivery delays or operational inefficiencies?
+
+Currently, answering these questions often requires navigating multiple dashboards or requesting ad-hoc reports from data teams. This process slows down decision-making and creates dependency on analysts.
+
+Proposed Solution
+
+Talking Rabbitt integrates directly with Zomato’s internal data sources such as sales databases, order systems, and analytics warehouses. It enables users to interact with business data through natural language queries.
+
+Example interaction:
+
+User question:
+“Which city generated the highest order revenue this week?”
+
+System response:
+Talking Rabbitt analyzes the dataset and instantly returns the answer along with an automatically generated visualization showing revenue by region.
+
+Key Capabilities
+
+Conversational Analytics
+Executives and managers can ask questions in plain language instead of navigating complex dashboards.
+
+Instant Decision Insights
+Questions that previously required manual filtering or analyst support can now be answered in seconds.
+
+Automated Visualization
+The system automatically generates charts and trend lines to provide visual context for answers.
+
+Lightweight Integration
+Talking Rabbitt acts as a layer on top of Zomato’s existing analytics infrastructure and does not replace existing BI tools.
+
+Business Impact
+
+Implementing Talking Rabbitt would deliver measurable benefits for Zomato:
+
+* Faster operational decision-making across regional teams
+* Reduced dependency on manual reporting and analyst workflows
+* Improved visibility into sales, demand patterns, and operational performance
+* Increased agility in responding to market trends and customer behavior
+
+By enabling leadership teams to simply “talk to their data,” Talking Rabbitt transforms business analytics from a manual process into a real-time conversation.
+
+Conclusion
+
+Talking Rabbitt represents the next evolution of business intelligence at Zomato. By combining conversational AI with automated analytics, it empowers executives to access insights instantly, accelerating strategic and operational decision-making across the organization.
